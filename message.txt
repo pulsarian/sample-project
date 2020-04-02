@@ -1,1 +1,2 @@
 secret salt!
+new message added in feature/02-04 to create a conflicting scenario.
