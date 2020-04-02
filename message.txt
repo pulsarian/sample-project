@@ -1,1 +1,2 @@
 secret salt!
+new message added to master branch to create a conflicting scenario.
